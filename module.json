@@ -1,0 +1,15 @@
+{
+    "name": "stay-open",
+    "title": "Stay Open",
+    "description": "Stops folders from collapsing when you close their parent folder",
+    "author": "Erceron",
+    "version": "1.0.0",
+    "minimumCoreVersion": "0.8.8",
+    "compatibleCoreVersion":"0.8.8",
+    "esmodules": [
+        "./stay-open.js"
+      ],
+    "url": "https://github.com/earlSt1/vtt-stay-open",
+    "manifest": "https://raw.githubusercontent.com/earlSt1/vtt-stay-open/master/module.json",
+    "download": "https://github.com/earlSt1/vtt-stay-open/releases/download/1.0.0/1.0.0.zip"
+  }
